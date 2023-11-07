@@ -9,16 +9,6 @@
 - **Detailed Task Information**: Outputs the task name, run account, author, creation date, last run time, next run time, last run result, and state.
 - **Formatted Output**: Presents information in an easy-to-read list format.
 
-## Usage
-
-To use `ScheduledTaskAuditor.ps1`, follow these steps:
-
-1. Open PowerShell with administrative privileges.
-2. Navigate to the directory containing `ScheduledTaskAuditor.ps1`.
-3. Execute the script by typing `.\ScheduledTaskAuditor.ps1`.
-
-Alternatively, this script is able to be run as a one-liner for situations where running scripts is disabled.
-
 ## Output Example
 
 The script will output information in the following format:
